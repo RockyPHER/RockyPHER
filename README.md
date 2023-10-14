@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @RockyPHER
+### Hi there! 👋
+
+I'm Davidson, from Minas Gerais, Brazil, currently exploring the fascinating world of technology and programming.
+
+- Learning the ins and outs of programming and software development.
+- Using GitHub to showcase my projects and experiments in programming.
+- Searching for my niche in the tech world.
 
 
 
