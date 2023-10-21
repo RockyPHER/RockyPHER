@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/wGwnhU1)
+[![Imgur](https://imgur.com/wGwnhU1)]()
 
 ---
 
@@ -7,9 +7,9 @@
 I'm Davidson, from Minas Gerais, Brazil. 
 Currently i'm discovering the fascinating world of technology.
 
-🧠 - Learning the ins and outs of software development.
-🧪 - Using GitHub to showcase my projects and experiments in programming.
-🛣️ - Seeking my own way in the tech.
+- 🧠 Learning the ins and outs of software development.
+- 🧪 Using GitHub to showcase my projects and experiments in programming.
+- 🛣️ Seeking my own way in the tech.
 
 ---
 
