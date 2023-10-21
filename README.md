@@ -1,4 +1,4 @@
-[![Wallpaper](https://imgur.com/a/185oKqG)]()
+[![Wallpaper](https://imgur.com/wGwnhU1)]()
 
 ### Hello there! 👋
 
