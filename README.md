@@ -13,26 +13,24 @@ Currently i'm discovering the fascinating world of technology.</p>
 
 ---
 <div style="display: flex;">
-  <div style="flex: 33.33%; padding: 10px; box-sizing: border-box; text-align: center;">
     <h4>Languages</h4>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,css,html,cs,java" alt="Tree Icon 1" style="width: 200px;" align="center">
   </div>
 
 <div style="display: flex;">
-  <div style="flex: 33.33%; padding: 10px; box-sizing: border-box; text-align: center;">
     <h4>Frameworks</h4>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,dotnet&perline=3" alt="Tree Icon 2" style="width: 200px;" align="center">
   </div>
 
 <div style="display: flex;">
-  <div style="flex: 33.33%; padding: 10px; box-sizing: border-box; text-align: center;">
     <h4>Tools&Others</h4>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,github,docker,eclipse,latex,discord&perline=3" alt="Tree Icon 3" style="width: 200px;" align="center">
   </div>  
 
+---
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RockyPHER&count_private=true&theme=tokyonight&showicons=true)]()
 
