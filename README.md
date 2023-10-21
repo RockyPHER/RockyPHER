@@ -1,10 +1,11 @@
-[![Imgur](https://imgur.com/wGwnhU1)]()
+[![Wallpaper](https://ibb.co/hK97WBg)]()
 
 ---
 
 ### Hello there! 👋
 
-I'm Davidson, from Minas Gerais, Brazil. 
+I'm Davidson, from Minas Gerais, Brazil.
+
 Currently i'm discovering the fascinating world of technology.
 
 - 🧠 Learning the ins and outs of software development.
