@@ -56,7 +56,13 @@ Currently i'm discovering the fascinating world of technology.</p>
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 **Frameworks**
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -71,9 +77,6 @@ Currently i'm discovering the fascinating world of technology.</p>
 &nbsp;
 **Tools/Utils**
 <br>
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
