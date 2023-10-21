@@ -2,29 +2,37 @@
 
 ---
 
-### Hello there! 👋
+<h3>Hello there! 👋</h3>
 
-I'm Davidson, from Minas Gerais, Brazil.
-
-Currently i'm discovering the fascinating world of technology.
+<p>I'm Davidson, from Minas Gerais, Brazil.<br>
+Currently i'm discovering the fascinating world of technology.</p>
 
 - 🧠 Learning the ins and outs of software development.
 - 🧪 Using GitHub to showcase my projects and experiments in programming.
 - 🛣️ Seeking my own way in the tech.
 
 ---
+<div style="display: flex;">
+  <div style="flex: 33.33%; padding: 10px; box-sizing: border-box; text-align: center;">
+    <h4>Languages</h4>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,css,html,cs,java" alt="Tree Icon 1" style="width: 50px;" align="center">
+  </div>
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,cs,java)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
-[![Editors](https://skillicons.dev/icons?i=ts,js,html,css,react,cs,figma,docker,eclipse,latex)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=ts,js,html,css,react,cs,figma,docker,eclipse,latex)](https://skillicons.dev)
----
+<div style="display: flex;">
+  <div style="flex: 33.33%; padding: 10px; box-sizing: border-box; text-align: center;">
+    <h4>Frameworks</h4>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,dotnet&perline=3" alt="Tree Icon 2" style="width: 50px;" align="center">
+  </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<div style="display: flex;">
+  <div style="flex: 33.33%; padding: 10px; box-sizing: border-box; text-align: center;">
+    <h4>Tools&Others</h4>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,github,docker,eclipse,latex,discord&perline=3" alt="Tree Icon 3" style="width: 50px;" align="center">
+  </div>  
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RockyPHER&count_private=true&theme=tokyonight&showicons=true)]()
 
