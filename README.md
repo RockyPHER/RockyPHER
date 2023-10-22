@@ -1,6 +1,6 @@
 [![Wallpaper](https://64.media.tumblr.com/69175382a8d086c034593c79c9cacfc2/ae046cdb654d7229-4f/s1280x1920/e4cb80e3bf118c0c0bd3220c09a069af360c0d5a.jpg)]()
----
 <h1>RockyPher...</h1>
+---
 
 <h3>Hello there! 👋</h3>
 
