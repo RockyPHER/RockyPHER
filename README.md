@@ -15,10 +15,8 @@ Currently i'm discovering the fascinating world of technology.</p>
 ---
 
 |Languages|Frameworks|Tools|
-|:--------|----------|-----|
-|[![test](https://skillicons.dev/icons?i=ts,js,css,html,cs,java&perline=3)](https://skillicons.dev)|
-|[![Languages](https://skillicons.dev/icons?i=react,bootstrap,tailwind,dotnet&perline=3)](https://skillicons.dev)|
-|[![Frameworks](https://skillicons.dev/icons?i=figma,github,docker,eclipse,latex,discord&perline=3)](https://skillicons.dev)|
+|:--------|:---------|:----|
+|[![test](https://skillicons.dev/icons?i=ts,js,css,html,cs,java&perline=3)](https://skillicons.dev)|[![Languages](https://skillicons.dev/icons?i=react,bootstrap,tailwind,dotnet&perline=3)](https://skillicons.dev)|[![Frameworks](https://skillicons.dev/icons?i=figma,github,docker,eclipse,latex,discord&perline=3)](https://skillicons.dev)|
 
 ---
 <p align="center">
