@@ -12,6 +12,8 @@ Currently i'm discovering the fascinating world of technology.</p>
 - 🧪 Using GitHub to showcase my projects and experiments in programming.
 - 🛣️ Seeking my own way in the tech.
 
+![Visitor Count](https://profile-counter.glitch.me/RockyPHER/count.svg)
+
 ---
 
 
