@@ -21,7 +21,5 @@ Currently i'm discovering the fascinating world of technology.</p>
 
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=RockyPHER&count_private=true&theme=dark&hide=issues,stars&showicons=true" alt="My GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyPHER&langs_count=5&layout=compact&theme=dark" alt="My GitHub Language Stats">
-</p>
+[![CommitsStats](https://github-readme-stats.vercel.app/api/?username=RockyPHER&count_private=true&theme=dark&hide=issues,stars&showicons=true)]()
+[![LangsCount](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyPHER&langs_count=5&layout=compact&theme=dark)]()
