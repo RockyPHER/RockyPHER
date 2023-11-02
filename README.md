@@ -6,11 +6,11 @@
 <h3>Hello there! 👋</h3>
 
 <p>I'm Davidson, from Minas Gerais, Brazil.<br>
-Currently i'm discovering the fascinating world of technology.</p>
+
+I'm a fullstack developer seeking more and more knowledge, constantly improving my habilities. 
 
 - 🧠 Learning the ins and outs of software development.
 - 🧪 Using GitHub to showcase my projects and experiments in programming.
-- 🛣️ Seeking my own way in the tech.
 
 ---
 
