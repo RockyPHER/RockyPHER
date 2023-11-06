@@ -3,15 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=RockyPher.+.+.)](https://git.io/typing-svg)
 ---
 
-<h3>Hello there! 👋</h3>
+###Hello there! 👋
 
-<p>I'm Davidson, from Minas Gerais, Brazil.<br>
+I'm Davidson, from Minas Gerais, Brazil. Fullstack developer. 
 
-I'm a fullstack developer seeking more and more knowledge, constantly improving my habilities. 
+I love building solutions and making aesthetic sites with pretty animations. 
+
+My currently goal is to complete my portfolion and my github profile until the end of this year (31/12/2023)
 
 - 🧠 Learning the ins and outs of software development.
 - 🧪 Using GitHub to showcase my projects and experiments in programming.
-
+- Work in progress...
 ---
 
 
