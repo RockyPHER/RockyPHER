@@ -9,7 +9,7 @@ I'm Davidson, from Minas Gerais, Brazil. Fullstack developer.
 
 I love building solutions and making aesthetic sites with pretty animations. 
 
-My currently goal is to complete my portfolion and my github profile until the end of this year (31/12/2023)
+My currently goal is to complete my portfolio and my github profile until the end of this year (31/12/2023)
 
 - 🧠 Learning the ins and outs of software development.
 - 🧪 Using GitHub to showcase my projects and experiments in programming.
