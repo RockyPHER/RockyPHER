@@ -19,7 +19,7 @@ My currently goal is to complete my portfolio and my github profile until the en
 
 |Languages|Frameworks|Tools|
 |:-------:|:--------:|:---:|
-|[![test](https://skillicons.dev/icons?i=ts,js,css,html,cs&perline=3)](https://skillicons.dev)|[![Languages](https://skillicons.dev/icons?i=next,react,tailwind,dotnet&perline=3)](https://skillicons.dev)|[![Frameworks](https://skillicons.dev/icons?i=figma,github,docker,eclipse,latex,discord&perline=3)](https://skillicons.dev)|
+|[![test](https://skillicons.dev/icons?i=ts,css,html,cs&perline=2)](https://skillicons.dev)|[![Languages](https://skillicons.dev/icons?i=next,react,tailwind,dotnet&perline=2)](https://skillicons.dev)|[![Frameworks](https://skillicons.dev/icons?i=figma,git,docker,linux&perline=2)](https://skillicons.dev)|
 
 
 ---
