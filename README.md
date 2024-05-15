@@ -29,7 +29,7 @@ Coding is my hobby.
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 </br>
 
-#### Langs
+### Langs
 [![test](https://skillicons.dev/icons?i=ts,js,css,html,cs,rust,java,py,mysql,mongodb,bash)](https://skillicons.dev)
 
 </br>
