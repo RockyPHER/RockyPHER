@@ -22,8 +22,7 @@ Coding is my hobby.
 &nbsp;
 
 ---
-[![CommitsStats](https://github-readme-stats.vercel.app/api/?username=RockyPHER&count_private=true&theme=dark&hide=issues,stars&showicons=true)]()
-[![LangsCount](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyPHER&langs_count=5&layout=compact&theme=dark)]()
+[![LangsCount](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyPHER&langs_count=5&layout=donut&theme=dark)]()
 
 </br>
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
