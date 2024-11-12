@@ -29,14 +29,14 @@ Coding is my hobby.
 </br>
 
 ### Langs
-[![test](https://skillicons.dev/icons?i=ts,js,css,html,cs,rust,java,py,mysql,mongodb,bash)](https://skillicons.dev)
+[![test](https://skillicons.dev/icons?i=ts,js,css,html,cs,py,mysql,mongodb)](https://skillicons.dev)
 
 </br>
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 </br>
 
 ### Frameworks
-[![Languages](https://skillicons.dev/icons?i=nodejs,next,react,vite,vitest,tailwind,sass,sqlite,tauri,dotnet,actix,express,prisma,)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,next,react,vite,vitest,tailwind,sass,sqlite,dotnet,actix,express,prisma,)](https://skillicons.dev)
 
 </br>
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
