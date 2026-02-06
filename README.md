@@ -29,21 +29,21 @@ Coding is my hobby.
 </br>
 
 ### Langs
-[![test](https://skillicons.dev/icons?i=ts,js,css,html,cs,py,mysql,mongodb)](https://skillicons.dev)
+[![test](https://skillicons.dev/icons?i=ts,js,css,html,mysql,mongodb)](https://skillicons.dev)
 
 </br>
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 </br>
 
 ### Frameworks
-[![Languages](https://skillicons.dev/icons?i=nodejs,next,react,vite,vitest,tailwind,sass,sqlite,dotnet,actix,express,prisma,)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,next,react,vite,vitest,tailwind,sqlite,express,prisma,nest)](https://skillicons.dev)
 
 </br>
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 </br>
 
 ### Tech n Tools
-[![Frameworks](https://skillicons.dev/icons?i=git,discordjs,obsidian,eclipse,vscode,docker,debian,linux,md,vercel)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=git,discordjs,vscode,docker,debian,linux,md,vercel)](https://skillicons.dev)
 
 
 </div>
