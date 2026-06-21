@@ -27,19 +27,6 @@ with **TypeScript, React, Next.js and Node.js**.
 
 ━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━
 
-### CURRENTLY BUILDING
-
-**PROMETEUS**
-
-Research, notes and writing
-connected in a single workspace.
-
-`Next.js · TypeScript · React · Tailwind`
-
-<br />
-
-━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyPHER\&layout=compact\&hide_border=true\&theme=transparent\&title_color=ffffff\&text_color=b8b8b8)](https://github.com/RockyPHER)
 
 <br />
